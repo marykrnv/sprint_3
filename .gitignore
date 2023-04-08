@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pytest
+.pytest_cache
+
+# idea
+.idea
